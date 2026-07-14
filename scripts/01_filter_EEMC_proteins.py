@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Filter and normalize Prodigal protein FASTA files for the EMCC workflow.
+"""Filter and normalize Prodigal protein FASTA files for the EEMC workflow.
 
 Filtering rules
 ---------------
