@@ -79,6 +79,16 @@ If you use this workflow, please cite:
 
 [Publication information will be added]
 
+## Authors
+
+This project was developed by:
+
+- **Huanfa Gong**  gonghuanfa@zju.edu.cn
+  Pipeline development, microbial genomics analysis, computational analysis
+
+- **Liangzhen Zheng**  astrozheng@gmail.com
+   Project conception, Protein annotation, workflow optimization, computational analysis
+
 
 ## License
 
