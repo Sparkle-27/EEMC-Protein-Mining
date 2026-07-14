@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ==============================================================================
-# EMCC protein filtering and construction of NR100, NR90 and NR50 sets
+# EEMC protein filtering and construction of NR100, NR90 and NR50 sets
 #
 # Required input:
 #   ROOT/proteins_batch1 ... ROOT/proteins_batch8
@@ -24,11 +24,11 @@ set -euo pipefail
 #   NR50 : identity 0.50, coverage 0.90
 #
 # Usage:
-#   bash 02_run_EMCC_filter_cluster.sh /path/to/EMCC_root
+#   bash 02_run_EEMC_filter_cluster.sh /path/to/EEMC_root
 #
 # Background usage:
-#   nohup env THREADS=32 bash 02_run_EMCC_filter_cluster.sh \
-#     /path/to/EMCC_root > EMCC_filter_cluster.nohup.log 2>&1 &
+#   nohup env THREADS=32 bash 02_run_EEMC_filter_cluster.sh \
+#     /path/to/EEMC_root > EEMC_filter_cluster.nohup.log 2>&1 &
 # ==============================================================================
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
