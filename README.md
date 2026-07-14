@@ -1,9 +1,9 @@
-# EMCC-Protein-Mining
+# EEMC-Protein-Mining
 A scalable pipeline for large-scale protein resource construction, annotation, and enzyme discovery from extremophile microbial genomes.
 
 ## Overview
 
-EMCC-Protein-Mining is an open-source bioinformatics workflow designed for large-scale analysis of extremophile microbial genomes (https://doi.org/10.1038/s41467-026-71145-0).
+EEMC-Protein-Mining is an open-source bioinformatics workflow designed for large-scale analysis of extremophile microbial genomes (https://doi.org/10.1038/s41467-026-71145-0).
 
 The pipeline converts genome assemblies into high-quality protein resources and enables downstream functional exploration, protein family analysis, and structure-guided enzyme discovery.
 
@@ -53,7 +53,7 @@ Structure prediction
 
 Clone repository:
 
-git clone https://github.com/xxx/EMCC-Protein-Mining.git
+git clone https://github.com/Sparkle-27/EEMC-Protein-Mining.git
 
 
 ## Usage
