@@ -3,7 +3,7 @@ A scalable pipeline for large-scale protein resource construction, annotation, a
 
 ## Overview
 
-EMCC-Protein-Mining is an open-source bioinformatics workflow designed for large-scale analysis of extremophile microbial genomes.
+EMCC-Protein-Mining is an open-source bioinformatics workflow designed for large-scale analysis of extremophile microbial genomes (https://doi.org/10.1038/s41467-026-71145-0).
 
 The pipeline converts genome assemblies into high-quality protein resources and enables downstream functional exploration, protein family analysis, and structure-guided enzyme discovery.
 
