@@ -76,6 +76,7 @@ The pipeline generates:
 ## Citation
 
 If you use this workflow, please cite:
+1. Jiang, P., Liang, Z., Kovacevic, V. et al. The Extreme Environment Microbiome Catalog (EEMC): a global resource for microbial diversity and antimicrobial discovery. Nat Commun 17, 4791 (2026). https://doi.org/10.1038/s41467-026-71145-0
 
 [Publication information will be added]
 
